@@ -1,0 +1,9 @@
+.Maincontent{
+    background-color:darkviolet;
+    color: white;
+    text-align: center;
+    height: 490px;
+    font-size: medium;
+    border-left: 4px;
+    line-height: 450px;
+}

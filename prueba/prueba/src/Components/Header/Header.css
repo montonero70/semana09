@@ -1,0 +1,9 @@
+.Header{
+    background-color: darkgreen;
+    color: white;
+    text-align: center;
+    box-sizing: border-box;
+    border: 4px solid #f9f9fafb;
+    font-size: 0.5rem;
+    height: 90px;
+}

@@ -1,0 +1,9 @@
+.Sidevar{
+    height: 490px;
+    background-color:darkviolet;
+    color: white;
+    text-align: center;
+    border-right: 4px solid white;
+    border-left: 4px solid white;
+    line-height: 450px;
+}
